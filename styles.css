@@ -1,0 +1,125 @@
+body {
+    text-align: center;
+    background-color: #CFFDE1;
+    margin: 0px;
+}
+    h1 {
+    color: #68B984;
+    font-family: "Moon Dance",serif;
+    font-size: 6rem;
+    margin: 70px auto 0 auto
+    }
+        p {
+    font-family: monospace;
+    font-size: 1rem;
+    color: #3D5656;
+    }
+    h2 {
+    color: #68B984;
+    font-family: Arial,sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+    }
+    h3 {
+    color: #3D5656;
+    font-family: Arial,sans-serif;
+    }
+    hr {
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    margin: 50px auto
+        }
+
+    a {
+    text-decoration: none;
+    }
+    a:hover {
+    color: #EFF5F5;
+    }
+
+    .top-container {
+
+    position: relative;
+    padding-bottom: 100px;
+    padding-top: 80px;
+    }
+    .skill-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+
+    }
+    .mountain {
+    display: block;
+    margin: auto;
+    }
+    .top-cloud {
+    position: absolute;
+    left: 950px;
+    }
+    .bottom-cloud {
+    position: absolute;
+    left: 375px;
+    bottom: 325px;
+    }
+    .avatar {
+    margin: auto;
+    }
+    .python-img {
+    width: 20%;
+    float: left;
+    padding-right: 30px;
+    }
+    .video-game-img {
+    width: 20%;
+    float: right;
+    padding-left: 30px;
+    }
+
+
+
+    .bottom-container {
+    background-color: #3D5656;
+    margin: 0px;
+    padding: 20px;
+    padding-top: 36px;
+    }
+
+    .contact-me {
+    margin: 50px;
+    }
+
+    .btn {
+      -webkit-border-radius: 60;
+      -moz-border-radius: 60;
+      border-radius: 60px;
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 20px;
+      background: #FED049;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+
+    }
+
+    .contact-message {
+    line-height: 5;
+    }
+
+    .btn:hover {
+      background: #3cfc73;
+      text-decoration: none;
+    }
+
+    .footer-link {
+    color: #5F8D4E;
+    margin: 20px;
+    font-family: Arial,sans-serif;
+    }
+
+
